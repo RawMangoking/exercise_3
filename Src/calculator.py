@@ -1,2 +1,2 @@
-def calculator():
+﻿def calculator():
     print("Calculator - TI")
