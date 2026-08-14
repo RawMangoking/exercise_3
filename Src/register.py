@@ -4,3 +4,4 @@
     print("Registration successful")
 
 register()
+print('Hello from registration team!')
